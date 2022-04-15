@@ -1,4 +1,5 @@
 /csv-data-frames
 /doc
 /example-files-beginner
-/specdata
+/specdatadata/*
+data/
